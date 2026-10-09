@@ -1,5 +1,5 @@
 <div align="center">
-<a href="ВСТАВЬТЕ_СЮДА_ВАШУ_ССЫЛКУ">
+<a href="https://github.com/echoillusionistcurl/zapret-discord/releases/tag/1.10.3">
   <button style="width: 100%; height: 50px; font-size: 20px; background-color: #2ea44f; color: white; border: none; border-radius: 6px; cursor: pointer;">
     👉 СКАЧАТЬ ЗАПРЕТ ДЛЯ ДИСКОРДА
   </button>

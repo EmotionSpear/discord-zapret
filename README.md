@@ -1,4 +1,10 @@
 <div align="center">
+<a href="ВСТАВЬТЕ_СЮДА_ВАШУ_ССЫЛКУ">
+  <button style="width: 100%; height: 50px; font-size: 20px; background-color: #2ea44f; color: white; border: none; border-radius: 6px; cursor: pointer;">
+    👉 СКАЧАТЬ ЗАПРЕТ ДЛЯ ДИСКОРДА
+  </button>
+</a>
+
 
 # <img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" alt="Discord" height=28 /> <a href="https://github.com/EmotionSpear">EmotionSpear</a><a href="https://github.com/EmotionSpear/discord-zapret">/discord-zapret</a> <img src="https://cdn-icons-png.flaticon.com/128/1384/1384060.png" alt="YouTube" height=28 />
 
